@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\RRP\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\RRP\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\RRP\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\RRP\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\RRP\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\RPP\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\RPP\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\RPP\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\RPP\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\RPP\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Brian\Desktop\RPP\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\RPP\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\RPP\Entidades\Entidades\bin\Debug\Entidades.pdb

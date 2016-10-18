@@ -1,0 +1,8 @@
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\bin\Debug\TestEstante.exe.config
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\bin\Debug\TestEstante.exe
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\bin\Debug\TestEstante.pdb
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\bin\Debug\Entidades.dll
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\bin\Debug\Entidades.pdb
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\obj\Debug\TestEstante.exe
+C:\Users\Brian\Desktop\RPP\Entidades\TestEstante\obj\Debug\TestEstante.pdb
